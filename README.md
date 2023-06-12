@@ -1,5 +1,5 @@
-# StudentSystem-javaSpring
-- Student system project: system so you can add and list student from database
+# Student System Project
+- This project is a web application that allows users to perform CRUD operations on a student database. It is built using Java Spring for the backend, ReactJS for the frontend, and PostgreSQL as the database.
 
 - Framework:
 - Java Spring
