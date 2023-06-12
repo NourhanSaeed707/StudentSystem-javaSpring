@@ -11,9 +11,9 @@
 - Responsive UI: the application is designed to work on desktop and mobile devices.
 
 ## Running the Project Locally:
-1- Clone the repository to your local machine.
-2- Install the dependencies by running npm install in the client folder.
-3- Start the frontend server by running npm run start in the client folder.
+1. Clone the repository to your local machine.
+2. Install the dependencies by running npm install in the client folder.
+3. Start the frontend server by running npm run start in the client folder.
 4- Install PostgreSQL and create a database called students.
 5- Start the backend server by running StudentSystemApplication in the root folder.
 
