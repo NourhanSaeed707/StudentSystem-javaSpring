@@ -2,7 +2,7 @@
 - This project is a web application that allows users to perform CRUD operations on a student database. It is built using Java Spring for the backend, ReactJS for the frontend, and PostgreSQL as the database.
 
 ## Technologies Used:
-- ava Spring: for building the backend REST APIs
+- Java Spring: for building the backend REST APIs
 - ReactJS: for building the frontend user interface
 - PostgreSQL: for storing the student data in a relational database
 
